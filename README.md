@@ -4,16 +4,16 @@ Aplicación de rompecabezas (puzzle) desarrollada con Python y Flet.
 Permite cargar imágenes desde el sistema, dividirlas en piezas y jugar moviendo las fichas hasta armar la imagen original.
 
 Incluye:
-	•	✅ Soporte multiplataforma (Windows, macOS, Linux, Android, Web).
-	•	✅ Carga de imágenes desde el sistema o desde la carpeta assets/.
-	•	✅ Puzzle adaptable a tamaños: 2x2, 3x3, 4x4.
-	•	✅ Movimiento de fichas con arrastrar y soltar (drag & drop).
-	•	✅ Contador de movimientos.
-	•	✅ Sonido de victoria 🎉.
-	•	✅ Efectos visuales al ganar.
-	•	✅ Botón para previsualizar la imagen completa.
-	•	✅ Reinicio con imágenes aleatorias desde assets/.
-	•	✅ Carga automática de un puzzle al iniciar.
+- ✅ Soporte multiplataforma (Windows, macOS, Linux, Android, Web).
+- ✅ Carga de imágenes desde el sistema o desde la carpeta assets/.
+- ✅ Puzzle adaptable a tamaños: 2x2, 3x3, 4x4.
+- ✅ Movimiento de fichas con arrastrar y soltar (drag & drop).
+- ✅ Contador de movimientos.
+- ✅ Sonido de victoria 🎉.
+- ✅ Efectos visuales al ganar.
+- ✅ Botón para previsualizar la imagen completa.
+- ✅ Reinicio con imágenes aleatorias desde assets/.
+- ✅ Carga automática de un puzzle al iniciar.
 
 ## 🚀 Instalación y ejecución
 
