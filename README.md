@@ -89,6 +89,6 @@ puzzle-flet/
 
 # **Juego de puzzles**
 
-#### **🖼️ Imágenes para el puzzle**
+#### **🖼️ Imágenes y sonidos para los puzzle**
 
-[Ver créditos](credits_images.md)
+[Ver créditos](credits.md)
